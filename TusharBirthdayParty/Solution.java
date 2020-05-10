@@ -38,3 +38,5 @@ public class Solution {
         return (int)totalCost;
     }
 }
+
+NDigitNumbersWithDigitSumS
